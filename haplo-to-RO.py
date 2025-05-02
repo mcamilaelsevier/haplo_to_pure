@@ -6,7 +6,7 @@ from openpyxl import load_workbook, Workbook
 import os
 import time
 
-# Script for uploading files to Pure and updating research outputs
+# Script for uploading files from haplo API to Pure and updating research outputs
 # Author: Maria Camila Hernández
 
 # Read the list of file URLs, UUIDs, and filenames from the Excel file
